@@ -1,5 +1,5 @@
 > !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>
->  THIS PLUGIN IS A **WORK IN PROGRESS**.<br>DO __**NOT**__ USE IT ON PRODUCTION INSTANCES<br><br>
+>  THIS ADDON IS A **WORK IN PROGRESS**.<br>DO __**NOT**__ USE IT ON PRODUCTION INSTANCES<br><br>
 >                              No stable releases are available at this time.<br>
 > !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>
 
