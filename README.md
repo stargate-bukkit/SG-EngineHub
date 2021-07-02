@@ -3,8 +3,10 @@
 >                              No stable releases are available at this time.<br>
 > !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>
 
-
-> Please visit [our discord](https://discord.gg/mTaHuK6BVa) for all updates and support!
+__**Important Links**__
+- [Stargate discord](https://discord.gg/mTaHuK6BVa).
+- [EngineHub discord](https://discord.gg/enginehub).
+- [Support EngineHub](https://github.com/sponsors/EngineHub).
 
 # Description
 StargateCommand is an addon for Stargate that adds support for WorldEdit and WorldGuard.
