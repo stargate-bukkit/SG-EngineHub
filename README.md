@@ -24,6 +24,8 @@ It also adds support for 3D gate designs.
 ## Dependencies
 [The most recent version of Stargate](https://www.spigotmc.org/resources/stargate.87978/)
 [SG Command](https://github.com/stargate-rewritten/SG-Command)
+[Worldedit](https://github.com/EngineHub/WorldEdit)
+[Worldguard](https://github.com/EngineHub/WorldGuard)
 
 # Permissions
 ### Nodes
