@@ -10,22 +10,30 @@ __**Important Links**__
 
 # Description
 StargateCommand is an addon for Stargate that adds support for WorldEdit and WorldGuard.
+It also adds support for 3D gate designs.
 
 #### Features:
-- To be determined
+- [To be determined](https://github.com/stargate-rewritten/SG-EngineHub/issues)
+- sg import
+  - Builds a gate based on a specified `.gate` file.
+- sg export
+  - Makes a `.gate` file for your current worldedit selection or schematic specified.
+- Worldguard stargate flag
+  - Determines the types of stargates that may be built in a certain region.
 
 ## Dependencies
 [The most recent version of Stargate](https://www.spigotmc.org/resources/stargate.87978/)
+[SG Command](https://github.com/stargate-rewritten/SG-Command)
 
 # Permissions
 ### Nodes
 ```
-stargate.sgeh.node -- to be added later (description)
-  stargate.sgeh.subnode -- not implemented yet (description)
+sg.enginehub.node -- to be added later (description)
+  sg.enginehub.node.subnode -- not implemented yet (description)
 ```
 ### Defaults
 ```
-stargate.sgeh.node -- op
+sg.enginehub.node -- op
 ```
 
 ## Instructions
